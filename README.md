@@ -6,7 +6,7 @@ Nesse projeto eu recebo uma tabela com os dados todos bagunçados e tenho como m
 ## tecnologias e ferramentas usadas
 * mysql
 * docker
-<br>
+---
 
 <details>
   <summary><strong> :whale: Rodando no Docker</strong></summary><br />
