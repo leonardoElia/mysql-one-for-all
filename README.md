@@ -1,7 +1,7 @@
 # seja bem-vindo(a) ao meu projeto mysql-one-for-all
 
 # sobre o projeto
-Nesse projeto eu recebo uma tabela com os dados todos bagunçados e tenho como missão orgazinar essas mesmas informações em um banco de dados seguindo as regras de normalização de dados do mysql, além de desenvolver queryes para serem executas no banco de dados.
+Nesse projeto eu recebo uma tabela com os dados todos bagunçados e tenho como missão orgazinar essas mesmas informações em um banco de dados seguindo as regras de normalização de dados do mysql, além de desenvolver querys para serem executas no banco de dados.
 
 ## tecnologias e ferramentas usadas
 * mysql
